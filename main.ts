@@ -10,6 +10,7 @@ const STRIP_HEADERS = new Set([
   "connection",
   "content-length",
   "transfer-encoding",
+  "accept-encoding",
   "proxy-connection",
   "proxy-authorization",
   "x-forwarded-for",
